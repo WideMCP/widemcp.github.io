@@ -17,7 +17,6 @@ WideMCP is an open-source, **local-first** platform for curated [Model Context P
 | Repo | Role |
 |------|------|
 | **[WideMCP/widemcp](https://github.com/WideMCP/widemcp)** | **Source code** — monorepo for MCP servers and shared libraries (e.g. `@widemcp/av-server`, `@widemcp/shared`). **Issues, PRs, and CI** live here. |
-| **[WideMCP/widemcp.github.io](https://github.com/WideMCP/widemcp.github.io)** (this repo) | **Website** — content for **[widemcp.dev](https://widemcp.dev/)** via **GitHub Pages** (plus `CNAME` for the custom domain). |
 
 If you want to **run or contribute to the servers**, start with the **widemcp** repo; use this repo only for **homepage / marketing copy** changes.
 
