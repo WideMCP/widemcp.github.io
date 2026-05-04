@@ -38,4 +38,4 @@ Contributions are welcome via **fork** and **pull request** into `main` on the *
 
 ## License
 
-This **website** repository is licensed under the terms in [`LICENSE`](LICENSE) (MIT). **Server and library packages** in [WideMCP/widemcp](https://github.com/WideMCP/widemcp) state their own licenses (see that repo’s `package.json` files and any `LICENSE` files there).
+Apache-2.0 — see [`LICENSE`](LICENSE). (This repository contains the website content for widemcp.dev.)
